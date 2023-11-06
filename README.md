@@ -10,7 +10,7 @@ GraphQL이 해결하는 REST API의 단점
 
 2. Underfetching : 내가 필요로 하는 데이터보다 적게 데이터를 fetch하는 것.
 - 한번의 reqeust로는 내가 필요로 하는 데이터를 얻지 못하고 여러번의 reqeust로 원하는 data를 얻는 것.
-- 이것 또한 graphQL을 사용하면 당일 reqeust만으로도 내가 원하는 데이터를 콕콕 찝어 응답 받을 수 있다.
+- 이것 또한 graphQL을 사용하면 단일 reqeust만으로도 내가 원하는 데이터를 콕콕 찝어 응답 받을 수 있다.
 
 
 ### query / mutation
