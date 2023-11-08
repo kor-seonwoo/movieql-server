@@ -25,6 +25,7 @@ query-조회(GET), mutation- 생성(POST) 수정(PUT) 삭제(DELETE) 로 사용�
 ## 프로젝트 목표
 이를 통해 GraphQL API를 구축하는데 입문하는 목표를 두고 학습하였다.
 
+## 프로젝트 구동모습
 ![movieql-server_01](https://github.com/kor-seonwoo/movieql-server/assets/74663731/a338ae34-bdce-43b6-9853-08a346153022)
 ![movieql-server_02](https://github.com/kor-seonwoo/movieql-server/assets/74663731/7997bf63-5a78-4453-b364-9e53374b0054)
 ![movieql-server_03](https://github.com/kor-seonwoo/movieql-server/assets/74663731/b635a6de-1bea-49f3-9d03-7e0572b81f91)
